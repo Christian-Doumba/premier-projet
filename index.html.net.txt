@@ -1,1 +1,1 @@
-le document git.init
+le document git.init mise en place du squelette
