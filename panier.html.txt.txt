@@ -1,1 +1,1 @@
-la gestion des paniers
+la gestion des paniers mise en place du squelette 5 et 3
